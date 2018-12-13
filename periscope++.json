@@ -278,7 +278,7 @@
          "type":"com.ibm.customizer.ui",
          "payload":{
             "include-files":[
-               "visualUpdate/navbar-lab.css"
+               "navbar-ext.css"
             ],
             "include-repo":{
                "name":"sdaryns-periscope-ext"
