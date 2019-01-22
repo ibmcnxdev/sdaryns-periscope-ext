@@ -18,8 +18,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "global",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "global"
         },
         {
           "name":"Account Settings",
@@ -32,8 +31,7 @@
               "name": "cnx-custom-theme"
             }
           },
-          "path": "manage",
-          "application": "Visual Update 1 for IBM Connections"
+          "path": "manage"
         },
         {
           "name":"Activities",
@@ -46,8 +44,7 @@
               "name": "cnx-custom-theme"
             }
           },
-          "path": "activities",
-          "application": "Visual Update 1 for IBM Connections"
+          "path": "activities"
         },
         {
             "name": "Blogs",
@@ -60,8 +57,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "blogs",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "blogs"
         },
         {
             "name": "Communities",
@@ -74,8 +70,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "communities",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "communities"
         },
         {
             "name": "Downloads",
@@ -88,8 +83,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "downloads",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "downloads"
         },
         {
             "name": "Files",
@@ -102,8 +96,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "files",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "files"
         },
         {
             "name": "Forums",
@@ -116,8 +109,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "forums",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "forums"
         },
         {
             "name": "Homepage New",
@@ -130,8 +122,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "social",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "social"
         },
         {
             "name": "Homepage Old",
@@ -144,8 +135,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "homepage",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "homepage"
         },
         {
             "name": "Meetings",
@@ -158,8 +148,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "meetings",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "meetings"
         },
         {
             "name": "Metrics",
@@ -172,8 +161,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "metrics",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "metrics"
         },
         {
             "name": "MyContacts",
@@ -186,8 +174,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "mycontacts",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "mycontacts"
         },
         {
             "name": "Notification Settings",
@@ -200,8 +187,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "news",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "news"
         },
         {
             "name": "Org page",
@@ -214,8 +200,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "contacts",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "contacts"
         },
         {
             "name": "Profiles",
@@ -228,8 +213,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "profiles",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "profiles"
         },
         {
             "name": "Search",
@@ -242,8 +226,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "search",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "search"
         },
         {
             "name": "Surveys",
@@ -256,8 +239,7 @@
                   "name": "cnx-custom-theme"
                 }
             },
-            "path": "surveys",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "surveys"
         },
         {
             "name": "Wikis",
@@ -270,8 +252,7 @@
                     "name": "cnx-custom-theme"
                 }
             },
-            "path": "wikis",
-            "application": "Visual Update 1 for IBM Connections"
+            "path": "wikis"
         },
          {
          "name":"Xtend VU1",
